@@ -52,8 +52,6 @@ http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182116
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182068
 #EXTINF: -1 tvg-name="24/7 LOS SIMPSONS 27-30" tvg-logo="http://boxdigital.xyz:8080/images/bcb7aa020438fba2315b83858eff9c0a.png" group-title="24/7 PPV", 24/7 LOS SIMPSONS 27-30
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/134127
-#EXTINF: -1 tvg-name="24/7 | Futurama" tvg-logo="http://www.skytvpluzz.online:8000/images/4697fe0060f8af20fec80f12585ca820.png" group-title="24/7 PPV", 24/7 | Futurama
-http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/133965
 #EXTINF: -1 tvg-name="24/7 | EL CHAVO DEL 8 | op2" tvg-logo="http://boxdigital.xyz:8080/images/b73e2e4bb510eb32d8dcad1794ad5fb8.png" group-title="24/7 PPV", 24/7 | EL CHAVO DEL 8 | op2
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/133964
 #EXTINF: -1 tvg-name="PREM HD: CINECANAL" tvg-logo="http://boxdigital.xyz:8080/images/ec97facdb4f846d8e9f81fb08d8f6096.png" group-title="CINE", PREM HD: CINECANAL
@@ -64,5 +62,6 @@ http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182055
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182079
 #EXTINF: -1 tvg-name="PREM HD: STUDIO UNIVERSAL 2" tvg-logo="http://boxdigital.xyz:8080/images/9e0b7cf897ae90c66593e3b579fb6360.png" group-title="CINE", PREM HD: STUDIO UNIVERSAL 2
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182093
-#EXTINF: -1 tvg-name="24H | Chespirito" tvg-logo="http://boxdigital.xyz:8080/images/79d11c1e5504f32cd0da3321e93e3357.png" group-title="24/7 PPV", 24H | Chespirito
-http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/134140
+#EXTINF:-1 NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
