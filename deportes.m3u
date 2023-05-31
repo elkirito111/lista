@@ -56,7 +56,12 @@ http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/134127
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/133965
 #EXTINF: -1 tvg-name="24/7 | EL CHAVO DEL 8 | op2" tvg-logo="http://boxdigital.xyz:8080/images/b73e2e4bb510eb32d8dcad1794ad5fb8.png" group-title="24/7 PPV", 24/7 | EL CHAVO DEL 8 | op2
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/133964
-#EXTINF: -1 tvg-name="Camaras Escondidas TV ⁽ᴴᴰ⁾" tvg-logo="http://boxdigital.xyz:8080/images/4d235320cc0f3ec676dd58101ab519f6.png" group-title="24/7 PPV", Camaras Escondidas TV ⁽ᴴᴰ⁾
-http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176840
-#EXTINF: -1 tvg-name="24H | La Pantera Rosa" tvg-logo="http://www.skytvpluzz.online:8000/images/351755179e8dcea8e2492c44ec2752f2.png" group-title="24/7 PPV", 24H | La Pantera Rosa
-http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/133975
+#EXTINF: -1 tvg-name="PREM HD: CINECANAL" tvg-logo="http://boxdigital.xyz:8080/images/ec97facdb4f846d8e9f81fb08d8f6096.png" group-title="CINE", PREM HD: CINECANAL
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182102
+#EXTINF: -1 tvg-name="PREM HD: CINEMAX | op1" tvg-logo="http://boxdigital.xyz:8080/images/09396f57aa0a0e1645f9a6856dd280d4.png" group-title="CINE", PREM HD: CINEMAX | op1
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182055
+#EXTINF: -1 tvg-name="PREM HD: STAR CHANNEL" tvg-logo="http://boxdigital.xyz:8080/images/c2a0a868209b25c0e07d0fc269e831e8.png" group-title="CINE", PREM HD: STAR CHANNEL
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182079
+#EXTINF: -1 tvg-name="PREM HD: STUDIO UNIVERSAL 2" tvg-logo="http://boxdigital.xyz:8080/images/9e0b7cf897ae90c66593e3b579fb6360.png" group-title="CINE", PREM HD: STUDIO UNIVERSAL 2
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182093
+
