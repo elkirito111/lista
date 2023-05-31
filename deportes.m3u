@@ -64,4 +64,29 @@ http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182079
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/182093
 #EXTINF:-1 NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
+#EXTINF: -1 tvg-name="NOTI | RT EN ESPANOL" tvg-logo="http://boxdigital.xyz:8080/images/7dc5ed2fbccf0f30ce612b815e53abc5.png" group-title="CANALES NOTICIAS", NOTI | RT EN ESPANOL
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/122111
+#EXTINF: -1 tvg-name="COL : Caracol | op2" tvg-logo="http://boxdigital.xyz:8080/images/e1cc286271376487f449147d140b9f87.png" group-title="COLOMBIA", COL : Caracol | op2
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/101141
+#EXTINF: -1 tvg-name="NOTI | RT EN ESPANOL" tvg-logo="http://boxdigital.xyz:8080/images/7dc5ed2fbccf0f30ce612b815e53abc5.png" group-title="CANALES NOTICIAS", NOTI | RT EN ESPANOL
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/122111
+#EXTINF: -1 tvg-name="COL : Caracol | op2" tvg-logo="http://boxdigital.xyz:8080/images/e1cc286271376487f449147d140b9f87.png" group-title="COLOMBIA", COL : Caracol | op2
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/101141
+#EXTINF: -1 tvg-name="COL : CITY TV | op1" tvg-logo="http://boxdigital.xyz:8080/images/a46fe430eceee2b543b3f177f3a5979d.png" group-title="COLOMBIA", COL : CITY TV | op1
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/181765
+#EXTINF: -1 tvg-name="COL : RCN INTERNACIONAL" tvg-logo="http://boxdigital.xyz:8080/images/4d401b580623eb82bcd87c90acdbc757.png" group-title="COLOMBIA", COL : RCN INTERNACIONAL
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/181771
+#EXTINF: -1 tvg-name="COL : SEÑAL COLOMBIA | op2" tvg-logo="http://boxdigital.xyz:8080/images/67715b8f2c14a3f72b690992d77396af.png" group-title="COLOMBIA", COL : SEÑAL COLOMBIA | op2
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/101148
+#EXTINF: -1 tvg-name="Rick y Morty" tvg-logo="http://boxdigital.xyz:8080/images/3193ce4f99164ecacaef134f69a8c407.png" group-title="24/7 PPV", Rick y Morty
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176901
+#EXTINF: -1 tvg-name="Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾" tvg-logo="http://boxdigital.xyz:8080/images/6864e3473272bfa07d11fa47ce474846.png" group-title="24/7 PPV", Cinema Marvel Studios Oeste ⁽ᴴᴰ⁾
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176818
+#EXTINF: -1 tvg-name="Cinema Anime [test]" tvg-logo="http://boxdigital.xyz:8080/images/698d8b4c5ae78ec3aca50cd3958e4098.png" group-title="24/7 PPV", Cinema Anime [test]
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176803
+#EXTINF: -1 tvg-name="Cinema Dreamworks ⁽ᴴᴰ⁾" tvg-logo="http://boxdigital.xyz:8080/images/7c3f95384c4edcaa73a03555e5dbb896.png" group-title="24/7 PPV", Cinema Dreamworks ⁽ᴴᴰ⁾
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176809
+#EXTINF: -1 tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="http://boxdigital.xyz:8080/images/b37d9490e868558b23928e9ad7967725.png" group-title="24/7 PPV", Cinema Disney Pixar ⁽ᴴᴰ⁾
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176808
+#EXTINF: -1 tvg-name="Cine Retro" tvg-logo="http://boxdigital.xyz:8080/images/9f9712b15a7e427f32436a150bd2f8d1.png" group-title="24/7 PPV", Cine Retro
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/177024
