@@ -68,10 +68,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/122111
 #EXTINF: -1 tvg-name="COL : Caracol | op2" tvg-logo="http://boxdigital.xyz:8080/images/e1cc286271376487f449147d140b9f87.png" group-title="COLOMBIA", COL : Caracol | op2
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/101141
-#EXTINF: -1 tvg-name="NOTI | RT EN ESPANOL" tvg-logo="http://boxdigital.xyz:8080/images/7dc5ed2fbccf0f30ce612b815e53abc5.png" group-title="CANALES NOTICIAS", NOTI | RT EN ESPANOL
-http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/122111
-#EXTINF: -1 tvg-name="COL : Caracol | op2" tvg-logo="http://boxdigital.xyz:8080/images/e1cc286271376487f449147d140b9f87.png" group-title="COLOMBIA", COL : Caracol | op2
-http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/101141
 #EXTINF: -1 tvg-name="COL : CITY TV | op1" tvg-logo="http://boxdigital.xyz:8080/images/a46fe430eceee2b543b3f177f3a5979d.png" group-title="COLOMBIA", COL : CITY TV | op1
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/181765
 #EXTINF: -1 tvg-name="COL : RCN INTERNACIONAL" tvg-logo="http://boxdigital.xyz:8080/images/4d401b580623eb82bcd87c90acdbc757.png" group-title="COLOMBIA", COL : RCN INTERNACIONAL
@@ -90,3 +86,18 @@ http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176809
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176808
 #EXTINF: -1 tvg-name="Cine Retro" tvg-logo="http://boxdigital.xyz:8080/images/9f9712b15a7e427f32436a150bd2f8d1.png" group-title="24/7 PPV", Cine Retro
 http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/177024
+#EXTINF: -1 tvg-name="24H | Chapulin Colorado" tvg-logo="http://boxdigital.xyz:8080/images/b0b4d8b8f8e2f03607ec807f68c0e330.png" group-title="24/7 PPV", 24H | Chapulin Colorado
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/134202
+#EXTINF: -1 tvg-name="24H | LOS SIMPSONS 12-17" tvg-logo="http://boxdigital.xyz:8080/images/bcb7aa020438fba2315b83858eff9c0a.png" group-title="24/7 PPV", 24H | LOS SIMPSONS 12-17
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/134125
+#EXTINF: -1 tvg-name="24H | LOS SIMPSONS 6-11" tvg-logo="http://boxdigital.xyz:8080/images/bcb7aa020438fba2315b83858eff9c0a.png" group-title="24/7 PPV", 24H | LOS SIMPSONS 6-11
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/134124
+#EXTINF: -1 tvg-name="Gallo claudio" tvg-logo="http://boxdigital.xyz:8080/images/b8a128c213bb417716f7273b3cc9d127.png" group-title="24/7 PPV", Gallo claudio
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176869
+#EXTINF: -1 tvg-name="Looney Tunes" tvg-logo="http://boxdigital.xyz:8080/images/5f5e289ed3dce31dbafef439a08000bf.png" group-title="24/7 PPV", Looney Tunes
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/176883
+#EXTINF: -1 tvg-name="DEP HD: CLARO SPORTS 2" tvg-logo="http://boxdigital.xyz:8080/images/50bfa8ed3a81e24054dcfa5ea00da1d0.png" group-title="DEPORTES ʜᴅ", DEP HD: CLARO SPORTS 2
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/181829
+#EXTINF: -1 tvg-name="DEP HD: BARCA TV" tvg-logo="http://boxdigital.xyz:8080/images/eda3badb8e73d3025f8339e9628cf5a0.png" group-title="DEPORTES ʜᴅ", DEP HD: BARCA TV
+http://tv.deluxeprime.net:8080/Zona593/ep4MXKsVzy3U/181817
+
